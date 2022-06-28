@@ -14,10 +14,12 @@ body{
     box-shadow: 12px 12px 22px grey;
 }
 
+/*
 img{
     border-bottom-left-radius: 7px;
     border-top-left-radius: 7px;
 }
+*/
 
 .btn1:hover{
     background: #f0ac7f;
